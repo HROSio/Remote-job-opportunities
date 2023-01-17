@@ -31,7 +31,7 @@ As Senior Frontend Developer in the Product team, you are responsible for buildi
 
 * A passion for creating a great user experience
 * 3+ years of technical experience with JavaScript
-* Significant experience with UI and the UX Design Process from ideation to iteration on wireframes to turning solutions into code while working as * * * * Frontend Developer in a SaaS environment
+* Significant experience with UI and the UX Design Process from ideation to iteration on wireframes to turning solutions into code while working as Frontend Developer in a SaaS environment
 * Experience utilizing browser APIs & optimizing FE performance
 * Experience with the following tools are beneficial: React 16+ including React Hooks, Webpack, Docker, Git and TypeScript
 * Highly motivated to deliver exceptional outcomes for our customers
