@@ -11,7 +11,7 @@ DeepOpinion is looking for more than just a good candidate. They want to create 
 As Senior Frontend Developer in the Product team, you are responsible for building features, designing and implementing new endpoints. This involves diverse tasks from gathering requirements and giving feedback on technical feasibility to working closer to the machine learning team to bring the power of their AI to the product.
 
 
-### [Apply here](https://jobs.speedinvest-heroes.com/o/job?=github senior-frontend-developer-fmd-at-deepopinion)
+### [Apply here](https://jobs.speedinvest-heroes.com/o/job?=github)
 
 ### :computer: Your Responsibilities
 
