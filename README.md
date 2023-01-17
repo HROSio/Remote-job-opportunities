@@ -1,6 +1,16 @@
 # Deepopinion
 
 
+
+<img width="1413" alt="Screenshot 2023-01-17 at 12 09 28" src="https://user-images.githubusercontent.com/122812045/212884058-4734f1e1-3648-44f2-a31d-3ea061a2db4b.png">
+
+
+
+
+
+
+
+
 ## Their stack and how they work
 
 They build products, APIs, frameworks and world-leading deep learning NLP technology
