@@ -1,5 +1,9 @@
 # Senior Frontend Developer (f/m/d) at DeepOpinion
 
+<p align="center">
+  <img src="https://www.playbookux.com/wp-content/uploads/2016/06/website-is-done.jpg" width="350" alt="accessibility text">
+</p>
+
 ### 🚀 Job description
 
 DeepOpinion is a Cognitive Automation SaaS provider riding on the next wave after Robotic Process Automation (RPA) and on a mission to free people from repetitive cognitive tasks so that their work becomes meaningful again.
