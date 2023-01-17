@@ -18,7 +18,8 @@ As Senior Frontend Developer in the Product team, you are responsible for buildi
 * Lead the efforts to ensure code quality and reduce bugs in production.
 * Build and develop reusable code and libraries for future use
 * Identify and resolve performance issues, and ensure efficient communication with the API, avoiding unnecessary requests
-* Lead the development of the next generation of our Cognitive Skill Builder and take the ownership of decisions made in your team by helping teammates * * Make clear decisions in alignment with organizational goals, backing decisions made and taking responsibility for their success
+* Lead the development of the next generation of our Cognitive Skill Builder and take the ownership of decisions made in your team by helping teammates
+*  Make clear decisions in alignment with organizational goals, backing decisions made and taking responsibility for their success
 * Work collaboratively on a range of new and existing products and features, championing new ideas and tech
 * Talk to all areas in order to have all the information needed to complete a task
 * Work together with the Machine Learning and Data Science teams to enable customers to use the latest cool features added to AutoNLU directly in Studio
